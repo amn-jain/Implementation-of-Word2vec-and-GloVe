@@ -1,2 +1,2 @@
-# Implementation-of-Word2vec
-This repository contains basic implementation of Continuous Bag Of Words and Skip Gram Model from scratch using numpy. 
+# Implementation-of-Word2vec-and-GloVe
+This repository contains basic implementation of Continuous Bag Of Words, Skip Gram and GloVe Model from scratch using numpy. 
