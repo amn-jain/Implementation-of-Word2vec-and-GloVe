@@ -11,7 +11,7 @@ The key to the approach is the idea of using a densely distributed representatio
 <br><br>
 Each word is represented by a real-valued vector, often tens or hundreds of dimensions. This is contrasted to the thousands or millions of dimensions required for sparse word representations, such as a one-hot encoding.
 <br><br>
-Word2Vec and GloVe are some of the most popular techniques to learn about word embeddings. In this project, we are going to build word2vec and GloVe algorithms from scratch using NumPy.
+Word2Vec and GloVe are some of the most popular techniques to learn about word embeddings. In this project, I implemented word2vec and GloVe algorithms from scratch using NumPy.
 
 ## Dataset
 
