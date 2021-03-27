@@ -15,7 +15,7 @@ Word2Vec and GloVe are some of the most popular techniques to learn about word e
 
 ## Dataset
 
-Webscraped https://en.wikipedia.org/wiki/Main_Page using selenium BeautifulSoup.
+Webscraped https://en.wikipedia.org/wiki/Main_Page using BeautifulSoup.
 
 ## Word2Vec
 
